@@ -13,6 +13,7 @@
 		CD18F0CC2C6BB7BC00332D59 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD18F0CB2C6BB7BC00332D59 /* Preview Assets.xcassets */; };
 		CD18F0D32C6BB7E500332D59 /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD18F0D22C6BB7E500332D59 /* Destination.swift */; };
 		CD18F0D52C6BD49C00332D59 /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD18F0D42C6BD49C00332D59 /* EditDestinationView.swift */; };
+		CD18F0D72C6BF35D00332D59 /* DestinationListingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD18F0D62C6BF35D00332D59 /* DestinationListingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		CD18F0CB2C6BB7BC00332D59 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CD18F0D22C6BB7E500332D59 /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		CD18F0D42C6BD49C00332D59 /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
+		CD18F0D62C6BF35D00332D59 /* DestinationListingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationListingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				CD18F0C42C6BB7BB00332D59 /* iTourApp.swift */,
 				CD18F0C62C6BB7BB00332D59 /* ContentView.swift */,
+				CD18F0D62C6BF35D00332D59 /* DestinationListingView.swift */,
 				CD18F0D42C6BD49C00332D59 /* EditDestinationView.swift */,
 				CD18F0D22C6BB7E500332D59 /* Destination.swift */,
 				CD18F0C82C6BB7BC00332D59 /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 				CD18F0C52C6BB7BB00332D59 /* iTourApp.swift in Sources */,
 				CD18F0D32C6BB7E500332D59 /* Destination.swift in Sources */,
 				CD18F0D52C6BD49C00332D59 /* EditDestinationView.swift in Sources */,
+				CD18F0D72C6BF35D00332D59 /* DestinationListingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
